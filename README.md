@@ -22,9 +22,4 @@ MathViz supports both:
 - This project is currently a **prototype**, and further improvements are planned.
 - Future enhancements may include better visuals, improved narration, and UI integration.
 
-## License
-This project is licensed under the MIT License.
-
-## Contributing
-Contributions are welcome! Feel free to open an issue or submit a pull request.
 
